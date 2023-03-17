@@ -10,3 +10,4 @@
 
 
 <h3>GitHub pages</h3>
+<a href="https://alexkaikin.github.io/github-search-frontend/">https://alexkaikin.github.io/github-search-frontend/</a>
